@@ -1,7 +1,5 @@
-# PLY-to-TXT-Converter-with-Class-Mapping
-----------------------------------------------------------------------
 # PLY to TXT Converter with Class Mapping
-
+------------------------------------------------
 This script converts `.ply` point cloud files to `.txt` format and maps the original class labels to a custom set of classes. This is often necessary when preparing data for deep learning tasks where you need to consolidate or re-organize your classes.
 
 ## How it Works
